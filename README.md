@@ -8,16 +8,22 @@ Welcome to NewsApp, a sleek and modern news application that brings the latest h
 •	Search Functionality: Quickly find news articles on topics that interest you.
 •	Category Filtering: Browse news based on categories for a more tailored reading experience.
 •	Responsive Design: Optimized for both mobile and desktop views, ensuring a consistent user experience across devices.
+
+
 🛠️ Technologies
 This project is built with:
 •	React.js: The core library for building user interfaces and managing the app’s state.
 •	CSS3: Styled-components for creating a modern and responsive design.
+
+
 🚀 Getting Started
 Follow these steps to set up the project locally:
 Prerequisites
 •	Node.js 
 •	npm
 •	NewsAPI Key: You’ll need an API key from NewsAPI.
+
+
 Installation
 1.	Clone the repository:
 git clone https://github.com/OnkarNakate17/Project___Newsapp.git
@@ -32,10 +38,14 @@ Create a .env file in the root directory with your NewsAPI key:
 npm start
 6.	Access the app:
 Open your browser and go to http://localhost:3000 to view the app.
+
+
 📚 Usage
 •	Browse Headlines: Open the app to see the latest news headlines.
 •	Search for News: Use the search bar to find articles on specific topics.
 •	Filter by Category: Select categories to filter news based on your interests.
+
+
 📈 Future Enhancements
 •	Dark Mode: Implement a dark mode toggle for a better reading experience at night.
 •	Pagination: Add pagination for easier navigation through extensive news lists.

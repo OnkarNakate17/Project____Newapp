@@ -1,6 +1,8 @@
 📰 NewsApp
 Overview
 Welcome to NewsApp, a sleek and modern news application that brings the latest headlines from around the world straight to your fingertips. This project, built entirely with React, leverages the powerful NewsAPI to deliver real-time news updates. The focus of this project is on crafting a seamless and responsive frontend experience.
+
+
 🌟 Features
 •	Latest News: Stay updated with the freshest news articles across various categories like technology, sports, entertainment, and more.
 •	Search Functionality: Quickly find news articles on topics that interest you.
